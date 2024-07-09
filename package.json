@@ -1,0 +1,18 @@
+{
+  "name": "ku_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "netlify-lambda": "^2.0.16",
+    "webpack": "^5.92.1"
+  }
+}
