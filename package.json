@@ -14,5 +14,8 @@
     "express": "^4.19.2",
     "netlify-lambda": "^2.0.16",
     "webpack": "^5.92.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
   }
 }
